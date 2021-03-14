@@ -1,0 +1,4 @@
+<div class="container">
+   <a class="button" href="/players/new">Create Player Account</a>
+   <a class="button" href="/players">List All Players</a>
+ </div>
